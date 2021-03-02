@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 * [MorningStar, Inc](https://www.morningstar.com/)
-[morning star logo](https://www.logosvgpng.com/wp-content/uploads/2018/03/morningstar-logo-vector.png)
+![morning star logo](https://www.logosvgpng.com/wp-content/uploads/2018/03/morningstar-logo-vector.png)
 
 * When was the company incorporated?
 
