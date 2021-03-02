@@ -1,11 +1,17 @@
-# Morningstar_Case_Study
+# Morningstar Case Study
 
 ## Overview and Origin
 
 * [MorningStar, Inc](https://www.morningstar.com/)
+[morning star logo](https://www.logosvgpng.com/wp-content/uploads/2018/03/morningstar-logo-vector.png)
 
 * When was the company incorporated?
-MorningStar, Inc is a financial consulting company founded in 1984 by. Its purpose is to empower individuals to achieve their financial dreams by offering important information. They pride themselves in providing great advice by "understanding the individual's hopes, dreams, and ideals." 
+
+MorningStar, Inc is a financial consulting company founded in 1984 by Joe Mansuto. Its purpose is to empower individuals to achieve their financial dreams by offering important information. They pride themselves in providing great financial advice by "understanding the individual's hopes, dreams, and ideals." 
+
+The idea for the company came about in 1982 while Mansuto was reviewing the annual report of Mutual Funds. However, the idea of the company did not bear fruit until 1984. He decided he needed to learn more about the market and competitors, and therefore worked for a year as a stock analyst for a Chicago investment firm. Mansueto claims that most of his inspiration came after being introduced to Warren Buffet from the book "The Money Masters" by Harper and Row [1](https://www.inc.com/magazine/19990701/811.html). 
+
+After the inception of the idea, Mansueto invested $80,000 to give birth to Morningstar[2](https://usatoday30.usatoday.com/money/companies/management/2005-11-14-mansueto_x.htm). It has since expanded its services around the globe, and operates in 11 offices in 9 countries and manages over $234.7 billion in assets.
 
 * Who are the founders of the company?
 
