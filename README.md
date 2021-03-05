@@ -24,24 +24,29 @@ Morningstar's mission is to empower investors. Mansueto founded the company beca
 The company's intended customers are individuals who are in needs of financial information. Those could be individuals investors, investment advisors, or anybody in need of financial news, advice, or information.
 
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+
+Morningstar's competitive advantage was influenced by Warren Buffet. Their economic moat, or competitive advantage, stems from an advantage that is very hard to replicate and has a high return rate. They don't believe that an advantage that comes from technology is not sustainable because that can easily be replicated. Morningstar's competitive advantage comes from their reputation. They also differentiate themselves from their competitors because they focus on their customers' journeys instead of the final result.
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
+As a Fintech company, Morningstar heavily relies on technology in their every day activities. According to Stackshare, Morningstar uses 32 applications, four utilities, two DevOps and three Business tools. Some of the more well known tools they use include Java, Jquery, PHP, Cloudflare, Google Analytics, and New Relic [9](https://stackshare.io/morningstar/morningstar/main).
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
-Morningstar mainly operates in the domains of investment management and wealth management. Morningstar is also known for its highly reputable credit rating agency.
+Morningstar is mainly known for being a great source of Financial information. But, they also operate in the domains of investment management and wealth management. Morningstar is also known for its highly reputable credit rating agency.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
+The pandemic has pushed forward many new trends in the Fintech industry. One of the more obvious trends over the past year has been remote working. This has brought new challenges as employers struggle to accomadate workers, motivate them, keep them productive, and connected as well [10](https://www.forbes.com/sites/googlecloud/2021/02/05/6-trends-that-will-shape-the-financial-services-industry-in-2021/?sh=74a491b342b6).
+
 * What are the other major companies in this domain?
 
-In the domain of wealth management, major companies include Schwabb, Morgan Stanley, Goldmans Sachs and others [7](https://www.investopedia.com/articles/investing/061314/best-best-wealth-management-firms.asp). Major companies in the investment management industry are Blackrock, Vanguard, UBS Group, Fidelity and others  [6](https://www.thebalance.com/which-firms-have-the-most-assets-under-management-4173923). When it comes to credit rating, Morningstar mainly competes with the S&P,Moodys, and Fitch [8](https://www.financial-planning.com/news/morningstar-acquires-mbs-rater-realpoint).
+Morningstar operates in many domains because they offer many services including: financial information, wealth management, and credit rating. The main domain that Morningstar operates in is the financial information industry. The main competitors in this industry are Bloomberg, Marketwatch, and Thomson Reuthers  [9](https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp#:~:text=Three%20of%20Morningstar's%20key%20competitors,activity%20and%20generate%20detailed%20reports.).In the domain of wealth management, major companies include Schwabb, Morgan Stanley, Goldmans Sachs and others [7](https://www.investopedia.com/articles/investing/061314/best-best-wealth-management-firms.asp). Major companies in the investment management industry are Blackrock, Vanguard, UBS Group, Fidelity and others  [6](https://www.thebalance.com/which-firms-have-the-most-assets-under-management-4173923). When it comes to credit rating, Morningstar mainly competes with the S&P,Moodys, and Fitch [8](https://www.financial-planning.com/news/morningstar-acquires-mbs-rater-realpoint).
 
 ## Results
 
