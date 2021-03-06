@@ -46,23 +46,39 @@ The pandemic has pushed forward many new trends in the Fintech industry. One of 
 
 * What are the other major companies in this domain?
 
-Morningstar operates in many domains because they offer many services including: financial information, wealth management, and credit rating. The main domain that Morningstar operates in is the financial information industry. The main competitors in this industry are Bloomberg, Marketwatch, and Thomson Reuthers  [9](https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp#:~:text=Three%20of%20Morningstar's%20key%20competitors,activity%20and%20generate%20detailed%20reports.).In the domain of wealth management, major companies include Schwabb, Morgan Stanley, Goldmans Sachs and others [7](https://www.investopedia.com/articles/investing/061314/best-best-wealth-management-firms.asp). Major companies in the investment management industry are Blackrock, Vanguard, UBS Group, Fidelity and others  [6](https://www.thebalance.com/which-firms-have-the-most-assets-under-management-4173923). When it comes to credit rating, Morningstar mainly competes with the S&P,Moodys, and Fitch [8](https://www.financial-planning.com/news/morningstar-acquires-mbs-rater-realpoint).
+Morningstar operates in many domains because they offer many services including: financial information, wealth management, and credit rating. The main domain that Morningstar operates in is the financial information industry. The main competitors in this industry are Bloomberg, Marketwatch, and Thomson Reuthers  [11](https://www.investopedia.com/ask/answers/051915/who-are-morningstars-morn-main-competitors.asp#:~:text=Three%20of%20Morningstar's%20key%20competitors,activity%20and%20generate%20detailed%20reports.).In the domain of wealth management, major companies include Schwabb, Morgan Stanley, Goldmans Sachs and others [7](https://www.investopedia.com/articles/investing/061314/best-best-wealth-management-firms.asp). Major companies in the investment management industry are Blackrock, Vanguard, UBS Group, Fidelity and others  [6](https://www.thebalance.com/which-firms-have-the-most-assets-under-management-4173923). When it comes to credit rating, Morningstar mainly competes with the S&P,Moodys, and Fitch [8](https://www.financial-planning.com/news/morningstar-acquires-mbs-rater-realpoint).
 
 ## Results
 
 * What has been the business impact of this company so far?
 
+Morningstar is mostly known for providing key financial information. They used to have a credit rating agency that was very well known, however, as of November 2020, DBRS, inc no longer recognized them as one of their affiliates. Because it is a highly reputable entity, many newcomer investors, as well as experienced finacial analyst depend on Morningstar. The information they receive allows them to track trends, in order to make key decisions.
+
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+There are many key performance indicators used to measure success in the domain of asset management. Success may be defined by how profitable a company or fund is, what their debt looks like, how quick they sell their inventory, or how their stock is performing in the  market. When looking at profitability, core metrics used tend to be the net profit margin and gross profit margin. When looking at how a company manages their debt or obligation, popular metrics used tend to be: leverage, quick ratio, and current ratio [12](https://online.hbs.edu/blog/post/financial-performance-measures). Success may also be measured by how quick inventory is turned over, or how efficiently assets are used to create revenue in which case they would use the inventory turnover ratio or the asset turnover ratio.
 
+Morningstar uses many metrics to measure the protitabily and risk of funds. One of these metrics is the downside capture ratio which  Calculates the extent to which a fund's performance mirrored that of its benchmark during months in which the benchmark lost ground  [12](https://www.morningstar.com/articles/754052/using-risk-measures-on-morningstar-fund-reports)." The S&P 500 is used as the benchmark for domestically funded stocks. For internationally funded stocks, the MSCI All Country World ex-US Index is used. For Bonds funds, the Barclays U.S. Aggregate Bond Index is used.
+
+Another metric that is used is the Mornigstar Risk Rating which looks at how a fund is performing in regards to its peers, with an emphasis on downward volatility. They also use the Sharpe ratio, Sortino ratio, as well as the Standard deviation. The Sharpe ratio calculates a fund's performance compared to the risks it takes. It is based on the fund's standard deviation and its excess return above the risk-free rate. Similarly the Sortino ratio does the same but with an emphasis on downside performance. Finally, the standard deviation calculates how much a fund's performance fluctuates over time.
+
+* How is your company performing relative to competitors in the same domain?
+Currently the more popular companies in the domain of financial news are Marketwatch, Bloomberg, Reuters, and others. These companies, along with others, dominate most of the share of the market
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+After reviewing Morningstar's competitors, and the products they offer, I would suggest that Morningstar create an easy to use phone application. Marketwatch's app already has over a million downloads and many good reviews, however Morningstar does not offer a similar service. They do have an application for managers, but it has only a few thousand downloads and many negative reviews.
+
 * Why do you think that offering this product or service would benefit the company?
+
+I think offering this product would be great because it would help Morningstar become more competitive. Mobile applications such as Webull and Robinhood have broken down barriers of entry and made it easier for individuals to trade. With an influx of investors comes a demand for information as well, and I believe that if Morningstar provided their services mobilly, they would be able to tap into a larger pool of customers. I personally trade on Robinhood, and they have this option that provides financial news. I have comes accross articles from Marketwatch, but I have not come accross articles from Morningstar.
 
 * What technologies would this additional product or service utilize?
 
+This additional product would require that Morningstar expand their services beyond the archaic ways of computers, and to transition into mobile phones and tablets.
+
 * Why are these technologies appropriate for your solution?
+
+This technology is appropriate in order to attract more customers. This strategy would also help become more competitive.
