@@ -18,7 +18,7 @@ The idea for the company came about in 1982 while Mansuto was reviewing the annu
 
    Morningstar's competitive advantage was influenced by Warren Buffet. Warren Buffet defined economic moat, or competitive advantage, as an advantage that is very hard to replicate and has a high return rate. Typically, that advantage does not stem from technology because it is not sustainable and be can easily replicated. Morningstar's moat comes from their staff, and the approach they take to guide their clients. They differentiate themselves from their competitors because they focus on their customers' journeys instead of the final result. Morningstar also boast from their reputation as one of the best, which gives them an advantage over other companies.
 
-    As a Fintech company, Morningstar heavily relies on technology in their every day activities. According to Stackshare, they use 32 applications, four utilities, two DevOps and three Business tools. Some of the more well known tools they use include Java, Jquery, PHP, Cloudflare, Google Analytics, and New Relic [9](https://stackshare.io/morningstar/morningstar/main).
+   As a Fintech company, Morningstar heavily relies on technology in their every day activities. According to Stackshare, they use 32 applications, four utilities, two DevOps and three Business tools. Some of the more well known tools they use include Java, Jquery, PHP, Cloudflare, Google Analytics, and New Relic [9](https://stackshare.io/morningstar/morningstar/main).
 
 ## Landscape:
 
