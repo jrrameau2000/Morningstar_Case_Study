@@ -38,13 +38,13 @@ Another metric that is used is the Mornigstar Risk Rating which looks at how a f
 
 ## Recommendations
 
-
    Currently the more popular companies in the domain of financial news are Marketwatch, Bloomberg, and Reuters. They dominate most of the marketshare. After reviewing Morningstar's competitors, and the products they offer, I would suggest that Morningstar create an easy to use phone application. Marketwatch's app already has over a million downloads and many good reviews, however Morningstar does not offer a similar service. They do have an application for managers, but it has only a few thousand downloads and many negative reviews. I think offering this product would be great because it would help Morningstar become more competitive. Mobile applications such as Webull and Robinhood have broken down barriers of entry, and made it easier for individuals to trade. With an influx of investors comes a demand for information as well. I believe that if Morningstar provided their services through mobile, they would be able to tap into a larger pool of customers. I personally trade through Robinhood and have noticed that many Marketwatch articles are featured on there. However, I have not come accross articles from Morningstar, and I believe this is a missed opportunity for Morningstar.
 Stepping into this realm would require Morningstar to expand their services beyond the archaic ways of computers, and to transition into mobile phones and tablets.
 This technology is appropriate in order to attract more customers. This strategy would also help become more competitive.
 --------------
 ### References
 The numbers hyperlinked at the end of sentences contain the link to the source used. Listed below are the sources used:
+
 https://www.inc.com/magazine/19990701/811.html
 https://usatoday30.usatoday.com/money/companies/management/2005-11-14-mansueto_x.htm
 https://www.morningstar.com/articles/754052/using-risk-measures-on-morningstar-fund-reports
