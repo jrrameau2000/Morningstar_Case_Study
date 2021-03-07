@@ -30,9 +30,9 @@ The idea for the company came about in 1982 while Mansuto was reviewing the annu
 
    Morningstar is mostly known for providing key financial information. They used to have a credit rating agency that was very well known, however, as of November 2020, DBRS, inc no longer recognized them as one of their affiliates. Because it is a highly reputable entity, many newcomer investors, as well as experienced finacial analyst depend on Morningstar. Investors depend on these key performance indicators to make important financial moves.
 
-   There are many key performance indicators used to measure success in the domain of asset management. Success may be defined by how profitable a company or fund is, what their debt looks like, how quick they sell their inventory, or how their stock is performing in the  market. When looking at profitability, core metrics used tend to be the net profit margin and gross profit margin. When looking at how a company manages their debt or obligation, popular metrics used tend to be: leverage, quick ratio, and current ratio [12](https://online.hbs.edu/blog/post/financial-performance-measures). Success may also be measured by how quick inventory is turned over, or how efficiently assets are used to create revenue in which case they would use the inventory turnover ratio or the asset turnover ratio.
+   There are many key performance indicators used to measure success in the domain of asset management. Success may be defined by how profitable a company or fund is, what their debt looks like, how quick they sell their inventory, or how their stock is performing in the  market. When looking at profitability, core metrics used tend to be the net profit margin and gross profit margin. When looking at how a company manages their debt or obligation, popular metrics used tend to be: leverage, quick ratio, and current ratio [4](https://online.hbs.edu/blog/post/financial-performance-measures). Success may also be measured by how quick inventory is turned over, or how efficiently assets are used to create revenue in which case they would use the inventory turnover ratio or the asset turnover ratio.
 
-   In terms of evaluating the success of funds, Morningstar uses different metrics to measure their protitabily and risk . One of these metrics is the Downside Capture Ratio which  calculates the extent to which a fund's performance mirrors that of its benchmark during the months in which the benchmark lost ground  [12](https://www.morningstar.com/articles/754052/using-risk-measures-on-morningstar-fund-reports)." The S&P 500 is used as the benchmark for domestically funded stocks. For internationally funded stocks, the MSCI All Country World ex-US Index is used. For Bonds funds, the Barclays U.S. Aggregate Bond Index is used.
+   In terms of evaluating the success of funds, Morningstar uses different metrics to measure their protitabily and risk . One of these metrics is the Downside Capture Ratio which  calculates the extent to which a fund's performance mirrors that of its benchmark during the months in which the benchmark lost ground  [3](https://www.morningstar.com/articles/754052/using-risk-measures-on-morningstar-fund-reports)." The S&P 500 is used as the benchmark for domestically funded stocks. For internationally funded stocks, the MSCI All Country World ex-US Index is used. For Bonds funds, the Barclays U.S. Aggregate Bond Index is used.
 Another metric that is used is the Mornigstar Risk Rating which looks at how a fund is performing in regards to its peers, with an emphasis on downward volatility. They also use the Sharpe ratio, Sortino ratio, as well as the Standard deviation. The Sharpe ratio calculates a fund's performance compared to the risks it takes. It is based on the fund's standard deviation and its excess return above the risk-free rate. Similarly, the Sortino ratio does the same but with an emphasis on downside performance. Finally, the standard deviation calculates how much a fund's performance fluctuates over time.
 
 
@@ -42,3 +42,20 @@ Another metric that is used is the Mornigstar Risk Rating which looks at how a f
    Currently the more popular companies in the domain of financial news are Marketwatch, Bloomberg, and Reuters. They dominate most of the marketshare. After reviewing Morningstar's competitors, and the products they offer, I would suggest that Morningstar create an easy to use phone application. Marketwatch's app already has over a million downloads and many good reviews, however Morningstar does not offer a similar service. They do have an application for managers, but it has only a few thousand downloads and many negative reviews. I think offering this product would be great because it would help Morningstar become more competitive. Mobile applications such as Webull and Robinhood have broken down barriers of entry, and made it easier for individuals to trade. With an influx of investors comes a demand for information as well. I believe that if Morningstar provided their services through mobile, they would be able to tap into a larger pool of customers. I personally trade through Robinhood and have noticed that many Marketwatch articles are featured on there. However, I have not come accross articles from Morningstar, and I believe this is a missed opportunity for Morningstar.
 Stepping into this realm would require Morningstar to expand their services beyond the archaic ways of computers, and to transition into mobile phones and tablets.
 This technology is appropriate in order to attract more customers. This strategy would also help become more competitive.
+--------------
+### References
+The numbers hyperlinked at the end of sentences contain the link to the source used. Listed below are the sources used:
+https://www.inc.com/magazine/19990701/811.html
+https://usatoday30.usatoday.com/money/companies/management/2005-11-14-mansueto_x.htm
+https://www.morningstar.com/articles/754052/using-risk-measures-on-morningstar-fund-reports
+https://online.hbs.edu/blog/post/financial-performance-measures
+https://www.thebalance.com/which-firms-have-the-most-assets-under-management-4173923
+https://www.investopedia.com/articles/investing/061314/best-best-wealth-management-firms.asp
+https://www.financial-planning.com/news/morningstar-acquires-mbs-rater-realpoint
+https://stackshare.io/morningstar/morningstar/main
+https://www.morningstar.com/company
+https://www.morningstar.com/products
+https://www.dbrsmorningstar.com/about/
+
+
+
